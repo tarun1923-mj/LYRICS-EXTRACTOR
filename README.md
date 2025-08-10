@@ -1,5 +1,4 @@
 # LYRICS-EXTRACTOR
-OUTPUT: Screenshot 2024-08-08 103534 68747470733a2f2f692e706f7374696d672e63632f6662776b507a4b712f322e706e67
 
 FOR ASSISSTANCE: https://www.geeksforgeeks.org/create-a-gui-to-extract-lyrics-from-song-using-python/
 
