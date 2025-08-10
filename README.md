@@ -1,5 +1,6 @@
 # LYRICS-EXTRACTOR
 
+![Image Alt](https://github.com/tarun1923-mj/LYRICS-EXTRACTOR/blob/427d2293c83bbd384d9e6387f09d1ad7677c2dc5/PYYYYYYYYYYYYY.png).
 FOR ASSISSTANCE: https://www.geeksforgeeks.org/create-a-gui-to-extract-lyrics-from-song-using-python/
 
 Create a GUI to extract Lyrics from song Using
